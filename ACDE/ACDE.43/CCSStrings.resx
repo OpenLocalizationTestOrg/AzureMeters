@@ -1,0 +1,300 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="y8nceray3m6osyn6kewsjnm3wtdjjgxgmy31m6yr6d6osy8ozz6rwt7reb8ako4j1w6agfy6ummtgyr1icfoyntygaihkdb4jwiwzeh6dn9qitexjyyynbnqcfsskyi4aojoy" xml:space="preserve">
+    <value>RA-GRS Named Encryption Scopes</value>
+  </data>
+  <data name="y8nceray3m6osyn6kewsjnm3wtdjjgxgmy31m6yr6d6osy8ozz6rwt7reb8ako4j1w6agfy6ummtgyr1icfoyntygaihkdb4jwiwzeh6dn9qitexjyyynbkip3wzehanzmnbgyy" xml:space="preserve">
+    <value>1/Month</value>
+  </data>
+  <data name="y8nceray3m6osyn6kewsjnm3wtdjjgxgmy31m6yr6d6osy8ozz6rwt7reb8ako4j1w6agfy6ummtgyr1icfoyntygaihkdb4jwiwzeh6dn9qitexjyyynb4uci38c4mdcwbmityuyy" xml:space="preserve">
+    <value>Storage</value>
+  </data>
+  <data name="y8nceray3m6osyn6kewsjnm3wtdjjgxgmy31m6yr6d6osy8ozz6rwt7reb8ako4j1w6agfy6ummtgyr1icfoyntygaihkdb4jwiwzeh6dn9qitexjyyynn4uci38c4mdcik81hdfyk7ceray" xml:space="preserve">
+    <value>Blob Features</value>
+  </data>
+  <data name="y8nceray3m6osyn6kewsjnm3wtdjjgxgmy31m6yr6d6osy8ozz6rwt7reb8ako4j1w6agfy6ummtgyr1icfoyntygaihkdb4jwiwzeh6dn9qitexjyyynb11cius155qyk7ceray" xml:space="preserve">
+    <value>DE Central</value>
+  </data>
+  <data name="y8nceray3m6osynoq4cibbsw7jg3r5ku38otgwj86d6osy8ozz6rwt7reb8ako4j1w6agfy6ummtgyr1icfoyntygaihkdb4jwiwzeh6dn9qitexjyyynbnqcfsskyi4aojoy" xml:space="preserve">
+    <value>Named Encryption Scopes</value>
+  </data>
+  <data name="y8nceray3m6osynoq4cibbsw7jg3r5ku38otgwj86d6osy8ozz6rwt7reb8ako4j1w6agfy6ummtgyr1icfoyntygaihkdb4jwiwzeh6dn9qitexjyyynbkip3wzehanzmnbgyy" xml:space="preserve">
+    <value>1/Month</value>
+  </data>
+  <data name="y8nceray3m6osynoq4cibbsw7jg3r5ku38otgwj86d6osy8ozz6rwt7reb8ako4j1w6agfy6ummtgyr1icfoyntygaihkdb4jwiwzeh6dn9qitexjyyynb4uci38c4mdcwbmityuyy" xml:space="preserve">
+    <value>Storage</value>
+  </data>
+  <data name="y8nceray3m6osynoq4cibbsw7jg3r5ku38otgwj86d6osy8ozz6rwt7reb8ako4j1w6agfy6ummtgyr1icfoyntygaihkdb4jwiwzeh6dn9qitexjyyynn4uci38c4mdcik81hdfyk7ceray" xml:space="preserve">
+    <value>Blob Features</value>
+  </data>
+  <data name="y8nceray3m6osynoq4cibbsw7jg3r5ku38otgwj86d6osy8ozz6rwt7reb8ako4j1w6agfy6ummtgyr1icfoyntygaihkdb4jwiwzeh6dn9qitexjyyynb11cius155qyk7ceray" xml:space="preserve">
+    <value>DE Northeast</value>
+  </data>
+  <data name="y8nceray3m6osyre9r5gqzcsstdao4q4qhkj99z46d6osy8ozz6rwt7reb8ako4j1w6agfy6ummtgyr1icfoyntygaihkdb4jwiwzeh6dn9qitexjyyynbnqcfsskyi4aojoy" xml:space="preserve">
+    <value>RA-GRS Named Encryption Scopes</value>
+  </data>
+  <data name="y8nceray3m6osyre9r5gqzcsstdao4q4qhkj99z46d6osy8ozz6rwt7reb8ako4j1w6agfy6ummtgyr1icfoyntygaihkdb4jwiwzeh6dn9qitexjyyynbkip3wzehanzmnbgyy" xml:space="preserve">
+    <value>1/Month</value>
+  </data>
+  <data name="y8nceray3m6osyre9r5gqzcsstdao4q4qhkj99z46d6osy8ozz6rwt7reb8ako4j1w6agfy6ummtgyr1icfoyntygaihkdb4jwiwzeh6dn9qitexjyyynb4uci38c4mdcwbmityuyy" xml:space="preserve">
+    <value>Storage</value>
+  </data>
+  <data name="y8nceray3m6osyre9r5gqzcsstdao4q4qhkj99z46d6osy8ozz6rwt7reb8ako4j1w6agfy6ummtgyr1icfoyntygaihkdb4jwiwzeh6dn9qitexjyyynn4uci38c4mdcik81hdfyk7ceray" xml:space="preserve">
+    <value>Blob Features</value>
+  </data>
+  <data name="y8nceray3m6osyre9r5gqzcsstdao4q4qhkj99z46d6osy8ozz6rwt7reb8ako4j1w6agfy6ummtgyr1icfoyntygaihkdb4jwiwzeh6dn9qitexjyyynb11cius155qyk7ceray" xml:space="preserve">
+    <value>DE Northeast</value>
+  </data>
+  <data name="y8nceray3m6osyyi97xkqqoqwidmrp7t7crwtdg16d6osy8ozz6rwt7reb8ako4j1w6agfy6ummtgyr1icfoyntygaihkdb4jwiwzeh6dn9qitexjyyynbnqcfsskyi4aojoy" xml:space="preserve">
+    <value>Named Encryption Scopes</value>
+  </data>
+  <data name="y8nceray3m6osyyi97xkqqoqwidmrp7t7crwtdg16d6osy8ozz6rwt7reb8ako4j1w6agfy6ummtgyr1icfoyntygaihkdb4jwiwzeh6dn9qitexjyyynbkip3wzehanzmnbgyy" xml:space="preserve">
+    <value>1/Month</value>
+  </data>
+  <data name="y8nceray3m6osyyi97xkqqoqwidmrp7t7crwtdg16d6osy8ozz6rwt7reb8ako4j1w6agfy6ummtgyr1icfoyntygaihkdb4jwiwzeh6dn9qitexjyyynb4uci38c4mdcwbmityuyy" xml:space="preserve">
+    <value>Storage</value>
+  </data>
+  <data name="y8nceray3m6osyyi97xkqqoqwidmrp7t7crwtdg16d6osy8ozz6rwt7reb8ako4j1w6agfy6ummtgyr1icfoyntygaihkdb4jwiwzeh6dn9qitexjyyynn4uci38c4mdcik81hdfyk7ceray" xml:space="preserve">
+    <value>Blob Features</value>
+  </data>
+  <data name="y8nceray3m6osyyi97xkqqoqwidmrp7t7crwtdg16d6osy8ozz6rwt7reb8ako4j1w6agfy6ummtgyr1icfoyntygaihkdb4jwiwzeh6dn9qitexjyyynb11cius155qyk7ceray" xml:space="preserve">
+    <value>DE Central</value>
+  </data>
+  <data name="y8nceray3m6osyy6odt5fznamtnmckhomspwhjch6d6osy8ozz6rwt7reb8ako4j1w6agfy6ummtgyr1icfoyntygaihkdb4jwiwzeh6dn9qitexjyyynbnqcfsskyi4aojoy" xml:space="preserve">
+    <value>CloudSimple Reservation Usage</value>
+  </data>
+  <data name="y8nceray3m6osyy6odt5fznamtnmckhomspwhjch6d6osy8ozz6rwt7reb8ako4j1w6agfy6ummtgyr1icfoyntygaihkdb4jwiwzeh6dn9qitexjyyynbkip3wzehanzmnbgyy" xml:space="preserve">
+    <value>1 Hour</value>
+  </data>
+  <data name="y8nceray3m6osyy6odt5fznamtnmckhomspwhjch6d6osy8ozz6rwt7reb8ako4j1w6agfy6ummtgyr1icfoyntygaihkdb4jwiwzeh6dn9qitexjyyynb4uci38c4mdcwbmityuyy" xml:space="preserve">
+    <value>Specialized Compute</value>
+  </data>
+  <data name="y8nceray3m6osyy6odt5fznamtnmckhomspwhjch6d6osy8ozz6rwt7reb8ako4j1w6agfy6ummtgyr1icfoyntygaihkdb4jwiwzeh6dn9qitexjyyynn4uci38c4mdcik81hdfyk7ceray" xml:space="preserve">
+    <value>Azure VMware Solution</value>
+  </data>
+  <data name="y8nceray3m6osyr1onfwzi7noid3z85snb8wahuj6d6osy8ozz6rwt7reb8ako4j1w6agfy6ummtgyr1icfoyntygaihkdb4jwiwzeh6dn9qitexjyyynbnqcfsskyi4aojoy" xml:space="preserve">
+    <value>16 vCPU VM License</value>
+  </data>
+  <data name="y8nceray3m6osyr1onfwzi7noid3z85snb8wahuj6d6osy8ozz6rwt7reb8ako4j1w6agfy6ummtgyr1icfoyntygaihkdb4jwiwzeh6dn9qitexjyyynbkip3wzehanzmnbgyy" xml:space="preserve">
+    <value>1 Hour</value>
+  </data>
+  <data name="y8nceray3m6osyr1onfwzi7noid3z85snb8wahuj6d6osy8ozz6rwt7reb8ako4j1w6agfy6ummtgyr1icfoyntygaihkdb4jwiwzeh6dn9qitexjyyynb4uci38c4mdcwbmityuyy" xml:space="preserve">
+    <value>Virtual Machines Licenses</value>
+  </data>
+  <data name="y8nceray3m6osyr1onfwzi7noid3z85snb8wahuj6d6osy8ozz6rwt7reb8ako4j1w6agfy6ummtgyr1icfoyntygaihkdb4jwiwzeh6dn9qitexjyyynn4uci38c4mdcik81hdfyk7ceray" xml:space="preserve">
+    <value>Oracle Database Enterprise</value>
+  </data>
+  <data name="y8nceray3m6osyrtfyrrmo1uxjrjt85y39fgrnyq6d6osy8ozz6rwt7reb8ako4j1w6agfy6ummtgyr1icfoyntygaihkdb4jwiwzeh6dn9qitexjyyynbnqcfsskyi4aojoy" xml:space="preserve">
+    <value>1 vCPU VM License</value>
+  </data>
+  <data name="y8nceray3m6osyrtfyrrmo1uxjrjt85y39fgrnyq6d6osy8ozz6rwt7reb8ako4j1w6agfy6ummtgyr1icfoyntygaihkdb4jwiwzeh6dn9qitexjyyynbkip3wzehanzmnbgyy" xml:space="preserve">
+    <value>1 Hour</value>
+  </data>
+  <data name="y8nceray3m6osyrtfyrrmo1uxjrjt85y39fgrnyq6d6osy8ozz6rwt7reb8ako4j1w6agfy6ummtgyr1icfoyntygaihkdb4jwiwzeh6dn9qitexjyyynb4uci38c4mdcwbmityuyy" xml:space="preserve">
+    <value>Virtual Machines Licenses</value>
+  </data>
+  <data name="y8nceray3m6osyrtfyrrmo1uxjrjt85y39fgrnyq6d6osy8ozz6rwt7reb8ako4j1w6agfy6ummtgyr1icfoyntygaihkdb4jwiwzeh6dn9qitexjyyynn4uci38c4mdcik81hdfyk7ceray" xml:space="preserve">
+    <value>Oracle Database Enterprise</value>
+  </data>
+  <data name="y8nceray3m6osydifqaf6gyw4b8aab67mfr7yb676d6osy8ozz6rwt7reb8ako4j1w6agfy6ummtgyr1icfoyntygaihkdb4jwiwzeh6dn9qitexjyyynbnqcfsskyi4aojoy" xml:space="preserve">
+    <value>vCore</value>
+  </data>
+  <data name="y8nceray3m6osydifqaf6gyw4b8aab67mfr7yb676d6osy8ozz6rwt7reb8ako4j1w6agfy6ummtgyr1icfoyntygaihkdb4jwiwzeh6dn9qitexjyyynbkip3wzehanzmnbgyy" xml:space="preserve">
+    <value>1 Hour</value>
+  </data>
+  <data name="y8nceray3m6osydifqaf6gyw4b8aab67mfr7yb676d6osy8ozz6rwt7reb8ako4j1w6agfy6ummtgyr1icfoyntygaihkdb4jwiwzeh6dn9qitexjyyynb4uci38c4mdcwbmityuyy" xml:space="preserve">
+    <value>SQL Database</value>
+  </data>
+  <data name="y8nceray3m6osydifqaf6gyw4b8aab67mfr7yb676d6osy8ozz6rwt7reb8ako4j1w6agfy6ummtgyr1icfoyntygaihkdb4jwiwzeh6dn9qitexjyyynn4uci38c4mdcik81hdfyk7ceray" xml:space="preserve">
+    <value>SingleDB Hyperscale - SQL License</value>
+  </data>
+  <data name="y8nceray3m6osygooyj4ii1hc3rj955x5ackmttz6d6osy8ozz6rwt7reb8ako4j1w6agfy6ummtgyr1icfoyntygaihkdb4jwiwzeh6dn9qitexjyyynbnqcfsskyi4aojoy" xml:space="preserve">
+    <value>Engine Cluster Markup</value>
+  </data>
+  <data name="y8nceray3m6osygooyj4ii1hc3rj955x5ackmttz6d6osy8ozz6rwt7reb8ako4j1w6agfy6ummtgyr1icfoyntygaihkdb4jwiwzeh6dn9qitexjyyynbkip3wzehanzmnbgyy" xml:space="preserve">
+    <value>1 Hour</value>
+  </data>
+  <data name="y8nceray3m6osygooyj4ii1hc3rj955x5ackmttz6d6osy8ozz6rwt7reb8ako4j1w6agfy6ummtgyr1icfoyntygaihkdb4jwiwzeh6dn9qitexjyyynb4uci38c4mdcwbmityuyy" xml:space="preserve">
+    <value>Azure Data Explorer</value>
+  </data>
+  <data name="y8nceray3m6osygooyj4ii1hc3rj955x5ackmttz6d6osy8ozz6rwt7reb8ako4j1w6agfy6ummtgyr1icfoyntygaihkdb4jwiwzeh6dn9qitexjyyynn4uci38c4mdcik81hdfyk7ceray" xml:space="preserve">
+    <value>Reservation</value>
+  </data>
+  <data name="y8nceray3m6osy8rd8u9bygqhb831pr7rip13n3t6d6osy8ozz6rwt7reb8ako4j1w6agfy6ummtgyr1icfoyntygaihkdb4jwiwzeh6dn9qitexjyyynbnqcfsskyi4aojoy" xml:space="preserve">
+    <value>100 DWUs</value>
+  </data>
+  <data name="y8nceray3m6osy8rd8u9bygqhb831pr7rip13n3t6d6osy8ozz6rwt7reb8ako4j1w6agfy6ummtgyr1icfoyntygaihkdb4jwiwzeh6dn9qitexjyyynbkip3wzehanzmnbgyy" xml:space="preserve">
+    <value>1 Hour</value>
+  </data>
+  <data name="y8nceray3m6osy8rd8u9bygqhb831pr7rip13n3t6d6osy8ozz6rwt7reb8ako4j1w6agfy6ummtgyr1icfoyntygaihkdb4jwiwzeh6dn9qitexjyyynb4uci38c4mdcwbmityuyy" xml:space="preserve">
+    <value>SQL Data Warehouse</value>
+  </data>
+  <data name="y8nceray3m6osy8rd8u9bygqhb831pr7rip13n3t6d6osy8ozz6rwt7reb8ako4j1w6agfy6ummtgyr1icfoyntygaihkdb4jwiwzeh6dn9qitexjyyynn4uci38c4mdcik81hdfyk7ceray" xml:space="preserve">
+    <value>Reservation</value>
+  </data>
+  <data name="y8nceray3m6osyfzs6jgx37b9ffmmpdgo5d7myeb6d6osy8ozz6rwt7reb8ako4j1w6agfy6ummtgyr1icfoyntygaihkdb4jwiwzeh6dn9qitexjyyynbnqcfsskyi4aojoy" xml:space="preserve">
+    <value>Cache</value>
+  </data>
+  <data name="y8nceray3m6osyfzs6jgx37b9ffmmpdgo5d7myeb6d6osy8ozz6rwt7reb8ako4j1w6agfy6ummtgyr1icfoyntygaihkdb4jwiwzeh6dn9qitexjyyynbkip3wzehanzmnbgyy" xml:space="preserve">
+    <value>1 Hour</value>
+  </data>
+  <data name="y8nceray3m6osyfzs6jgx37b9ffmmpdgo5d7myeb6d6osy8ozz6rwt7reb8ako4j1w6agfy6ummtgyr1icfoyntygaihkdb4jwiwzeh6dn9qitexjyyynb4uci38c4mdcwbmityuyy" xml:space="preserve">
+    <value>Redis Cache</value>
+  </data>
+  <data name="y8nceray3m6osyfzs6jgx37b9ffmmpdgo5d7myeb6d6osy8ozz6rwt7reb8ako4j1w6agfy6ummtgyr1icfoyntygaihkdb4jwiwzeh6dn9qitexjyyynn4uci38c4mdcik81hdfyk7ceray" xml:space="preserve">
+    <value>Reservation</value>
+  </data>
+  <data name="y8nceray3m6osydt9uz9ed4fmigktrkuhqxs3dhx6d6osy8ozz6rwt7reb8ako4j1w6agfy6ummtgyr1icfoyntygaihkdb4jwiwzeh6dn9qitexjyyynbnqcfsskyi4aojoy" xml:space="preserve">
+    <value>Data Stored</value>
+  </data>
+  <data name="y8nceray3m6osydt9uz9ed4fmigktrkuhqxs3dhx6d6osy8ozz6rwt7reb8ako4j1w6agfy6ummtgyr1icfoyntygaihkdb4jwiwzeh6dn9qitexjyyynbkip3wzehanzmnbgyy" xml:space="preserve">
+    <value>1 GB/Month</value>
+  </data>
+  <data name="y8nceray3m6osydt9uz9ed4fmigktrkuhqxs3dhx6d6osy8ozz6rwt7reb8ako4j1w6agfy6ummtgyr1icfoyntygaihkdb4jwiwzeh6dn9qitexjyyynb4uci38c4mdcwbmityuyy" xml:space="preserve">
+    <value>Storage</value>
+  </data>
+  <data name="y8nceray3m6osydt9uz9ed4fmigktrkuhqxs3dhx6d6osy8ozz6rwt7reb8ako4j1w6agfy6ummtgyr1icfoyntygaihkdb4jwiwzeh6dn9qitexjyyynn4uci38c4mdcik81hdfyk7ceray" xml:space="preserve">
+    <value>ADLS Gen2 Reservation</value>
+  </data>
+  <data name="y8nceray3m6osybgo6rkjjgbrjy4a753e6kx85g56d6osy8ozz6rwt7reb8ako4j1w6agfy6ummtgyr1icfoyntygaihkdb4jwiwzeh6dn9qitexjyyynbnqcfsskyi4aojoy" xml:space="preserve">
+    <value>vCPU</value>
+  </data>
+  <data name="y8nceray3m6osybgo6rkjjgbrjy4a753e6kx85g56d6osy8ozz6rwt7reb8ako4j1w6agfy6ummtgyr1icfoyntygaihkdb4jwiwzeh6dn9qitexjyyynbkip3wzehanzmnbgyy" xml:space="preserve">
+    <value>1 Hour</value>
+  </data>
+  <data name="y8nceray3m6osybgo6rkjjgbrjy4a753e6kx85g56d6osy8ozz6rwt7reb8ako4j1w6agfy6ummtgyr1icfoyntygaihkdb4jwiwzeh6dn9qitexjyyynb4uci38c4mdcwbmityuyy" xml:space="preserve">
+    <value>Virtual Machines Licenses</value>
+  </data>
+  <data name="y8nceray3m6osybgo6rkjjgbrjy4a753e6kx85g56d6osy8ozz6rwt7reb8ako4j1w6agfy6ummtgyr1icfoyntygaihkdb4jwiwzeh6dn9qitexjyyynn4uci38c4mdcik81hdfyk7ceray" xml:space="preserve">
+    <value>Azure Red Hat OpenShift Pre-Pay</value>
+  </data>
+  <data name="y8nceray3m6osyrehnspsnueafnmcopxftskrqjz6d6osy8ozz6rwt7reb8ako4j1w6agfy6ummtgyr1icfoyntygaihkdb4jwiwzeh6dn9qitexjyyynbnqcfsskyi4aojoy" xml:space="preserve">
+    <value>DBU</value>
+  </data>
+  <data name="y8nceray3m6osyrehnspsnueafnmcopxftskrqjz6d6osy8ozz6rwt7reb8ako4j1w6agfy6ummtgyr1icfoyntygaihkdb4jwiwzeh6dn9qitexjyyynbkip3wzehanzmnbgyy" xml:space="preserve">
+    <value>1 Hour</value>
+  </data>
+  <data name="y8nceray3m6osyrehnspsnueafnmcopxftskrqjz6d6osy8ozz6rwt7reb8ako4j1w6agfy6ummtgyr1icfoyntygaihkdb4jwiwzeh6dn9qitexjyyynb4uci38c4mdcwbmityuyy" xml:space="preserve">
+    <value>Azure Databricks</value>
+  </data>
+  <data name="y8nceray3m6osyrehnspsnueafnmcopxftskrqjz6d6osy8ozz6rwt7reb8ako4j1w6agfy6ummtgyr1icfoyntygaihkdb4jwiwzeh6dn9qitexjyyynn4uci38c4mdcik81hdfyk7ceray" xml:space="preserve">
+    <value>Reservation</value>
+  </data>
+</root>
